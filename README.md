@@ -1,6 +1,6 @@
 # Chicago Crimes Analysis
 
-A Jupyter Notebook with the data analysis of crimes in Chicago from 2017 to 2023
+A Jupyter Notebook with the data analysis and data visualization of crimes in Chicago from 2017 to 2023 using libraries such as *seaborn* and *folium*
 
 
 ## 🔰 What is it about?
