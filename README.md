@@ -25,18 +25,18 @@ Several question were proposed in orden to get insights related with the crimes 
 
 **8. Geographic Data Visualization for Crimes in Chicago**
 
-  - *Beat*
+  - [*Beat*](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74)
     
     <img src = "https://raw.githubusercontent.com/alejo1630/chicago_crimes/main/Images/Beats.png" width = "400">
 
-  - *District*
+  - [*District*](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts-current-/fthy-xz3r)
     
     <img src = "https://raw.githubusercontent.com/alejo1630/chicago_crimes/main/Images/District.png" width = "400">
 
-  - *Ward*
+  - [*Ward*](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Wards-2015-2023-/sp34-6z76)
     
     <img src = "https://raw.githubusercontent.com/alejo1630/chicago_crimes/main/Images/Ward.png" width = "400">
 
-  - *Community Area*
+  - [*Community Area*](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6)
     
     <img src = "https://raw.githubusercontent.com/alejo1630/chicago_crimes/main/Images/Community_Area.png" width = "400">
